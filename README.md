@@ -1,2 +1,2 @@
 # go-home-server
-An example repository
+An example repository of Golang
